@@ -1,0 +1,1 @@
+Esse jogo é apenas um minigame criado para ser utilizado em campanhas e ações da empresa Gertaxi. Foi usado a base de Subway Surfers e os demais ajustes foram feitos com a ajuda de inteligência artificial. 
